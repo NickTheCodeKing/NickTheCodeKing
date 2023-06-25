@@ -1,5 +1,5 @@
 <h1 align="center">< print("Hello World!") 👋 /></h1> 
-______________
+_______________________________________________________________________________________________________________________________________________________________________________
 
 **<p align="center">I'm Nicholas🤷🏾‍♂️ I am currently a Computer Science student at the University of New Orleans💻 I have aspirations of becoming a full-stack developer☝️</p>**
 
