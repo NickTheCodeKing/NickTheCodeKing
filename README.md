@@ -1,6 +1,5 @@
 <h1 align="center">< print("Hello World!") 👋 /></h1> 
 
-<h2 align="center>I'm Nicholas, I am currently a Computer Science student at the University of New Orlenans I have aspirations of becoming a full-stack developer.</h2>
 
 
   
