@@ -1,4 +1,4 @@
-<h1 align="center">< print("Hello World") 👋/></h1> 
+<h1 align="center">< print("Hello World") 👋 /></h1> 
 ---
 
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
