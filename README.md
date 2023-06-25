@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there, I'm Nicholas 👋</h1> 
+<h1 align="center">Hi there, I'm Nicholas 👋</h1> 
 ---
 
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
