@@ -15,3 +15,4 @@
 
 ⚡ My Skill Set
 ______________________________________________________________________________________________________________________________________________________________________________
+![alt text](https://github.com/NickTheCodeKing/NickTheCodeKing/tree/main/Images/HTML5_logo.svg.png "HTML Logo") ![alt text](https://github.com/NickTheCodeKing/NickTheCodeKing/tree/main/Images/CSS_Logo "CSS Logo") ![alt text](https://github.com/NickTheCodeKing/NickTheCodeKing/tree/main/Images/JavaScript_Logo "JavaScript Logo")
