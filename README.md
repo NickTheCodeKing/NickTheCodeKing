@@ -1,4 +1,4 @@
-                                                            ### Hi there, I'm Nicholas 👋
+<p style="text-align: center;">Hi there, I'm Nicholas 👋</p> 
 ---
 
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
