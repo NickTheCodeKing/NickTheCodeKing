@@ -1,4 +1,4 @@
-### Hi there, I'm Nicholas 👋
+                                                            ### Hi there, I'm Nicholas 👋
 ---
 
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
