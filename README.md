@@ -1,6 +1,6 @@
-<h1 align="center">< print("Hello World") 👋 /></h1> 
+<h1 align="center">< print("Hello World!") 👋 /></h1> 
 
-
+<h2 align="center>I'm Nicholas, I am currently a Computer Science student at the University of New Orlenans I have aspirations of becoming a full-stack developer.</h2>
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
 - 🌱 I’m currently learning the Zoho Creator software and the Deluge programming language.
 - 👯 I’m looking to collaborate on any type of programming project so that I can apply and train the skills I learned at my college.
