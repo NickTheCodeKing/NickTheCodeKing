@@ -15,4 +15,4 @@
 
 ⚡ My Skill Set
 ______________________________________________________________________________________________________________________________________________________________________________
-![alt text](Images/HTML5_Logo.svg.png "HTML Logo") ![alt text](Images/CSS_Logo =250x250 "CSS Logo") ![alt text](Images/JavaScript_Logo "JavaScript Logo")
+![alt text](Images/HTML5_Logo.svg.png "HTML Logo") ![alt text](Images/CSS_Logo "CSS Logo") ![alt text](Images/JavaScript_Logo "JavaScript Logo")
