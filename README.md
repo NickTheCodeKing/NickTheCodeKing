@@ -5,7 +5,7 @@
 
   
 - 🔭 Check out my Portfolio Website: https://nickthecodeking.github.io/
-- 🌱 I’m currently learning the Zoho Creator software and the Deluge programming language.
+- 🌱 I’m currently learning data science principles and best practices.
 - 👯 I’m looking to collaborate on any type of programming project so that I can apply and train the skills I learned at my college.
 - 💬 Ask me about anything "nerd-related"
 - ⚡ Fun fact: I am among the top 1% in a game called Rocket League
